@@ -1,0 +1,4 @@
+1. Open PA4-BoundingBox.exe or PA4-Octree.exe
+2. Input the convergence criteria, including sigma value(default 0.001) and relative sigma value(default 0.95). 
+3. Input the case you wish to run. Here we run a loop, and 0 denotes dataset A, 9 denotes dataset K. You can type in 0 and 9 for running all datasets.
+4. The output file will be in the "OUTPUT dictionary".
