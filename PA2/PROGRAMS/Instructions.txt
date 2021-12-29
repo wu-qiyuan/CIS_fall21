@@ -1,0 +1,5 @@
+Note: This program can be executed under Windows system.
+
+1. Open .exe
+2.Input the frefix of the file to be tested.
+3.The output file will be in the "OUTPUT dictionary".
